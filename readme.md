@@ -1,0 +1,2 @@
+# Built 10+ interactive applications and games — including a quiz game, password generator, currency converter, QR code generator, slot machine, and to-do list — strengthening core programming logic, event handling, and problem-solving skills.
+# Developed classic logic-based games such as Tic-Tac-Toe, Rock-Paper-Scissors, dice rolling, and a number guessing game, applying conditional logic, state management, and algorithmic thinking.
